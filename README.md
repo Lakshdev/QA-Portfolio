@@ -78,10 +78,10 @@ Department of ICT
 ## Contact
 
 Email:
-your-email@example.com
+lakshithaswijayasinhe@gmail.com
 
 LinkedIn:
 (Add later)
 
 GitHub:
-(Add your GitHub profile link)
+
