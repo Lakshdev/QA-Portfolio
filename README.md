@@ -64,7 +64,22 @@ Project Deliverables
 - GitHub
 
 ---
+### ✅ Project 3 – Selenium Automation
 
+Automation of SauceDemo Login
+
+Features
+
+- Selenium WebDriver
+- Java
+- Maven
+- TestNG
+- Assertions
+- Chrome Automation
+
+Status
+
+✔ Completed
 ## Education
 
 University of Vavuniya
